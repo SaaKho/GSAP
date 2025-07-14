@@ -7,3 +7,4 @@ Made a few animation using the gsap .to(), .from(), fromTO(), and .timeline meth
 Made the navbar of the iphone 15 website 
 used gsap text to make the iphone landing page 
 with the iphone 25 TITAMNIUM affects 
+Made the hero section 
