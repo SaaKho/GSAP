@@ -10,4 +10,4 @@ with the iphone 25 TITAMNIUM affects
 Made the Highlights section
 Made the hero section 
 Created the Threejs model of iphone from scratch
-
+Issues facing with CORS setup
