@@ -9,5 +9,7 @@ used gsap text to make the iphone landing page
 with the iphone 25 TITAMNIUM affects 
 Made the Highlights section
 Made the hero section 
+On Model page
+
 Created the Threejs model of iphone from scratch
 
