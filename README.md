@@ -11,5 +11,4 @@ Made the Highlights section
 Made the hero section 
 On Model page
 
-Created the Threejs model of iphone from scratch
 
